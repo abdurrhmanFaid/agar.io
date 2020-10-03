@@ -1,5 +1,6 @@
 const wHeight =  window.innerHeight
 const wWidth = window.innerWidth
+let orbs = []
 let canvas = document.querySelector('#the-canvas')
 let context = canvas.getContext('2d')
 canvas.width = wWidth

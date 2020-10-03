@@ -1,3 +1,3 @@
-require('./express/main')
 require('./sockets/main')
+require('./express/main')
 
