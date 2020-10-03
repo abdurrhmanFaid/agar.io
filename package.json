@@ -1,0 +1,29 @@
+{
+  "name": "agar.io",
+  "version": "1.0.0",
+  "description": "agar.io game clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdurrhmanFaid/agar.io.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "helmet": "^4.1.1",
+    "socket.io": "*"
+  },
+  "keywords": [
+    "agar",
+    "agar.io",
+    "game"
+  ],
+  "author": "A||F",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdurrhmanFaid/agar.io/issues"
+  },
+  "homepage": "https://github.com/abdurrhmanFaid/agar.io#readme"
+}
